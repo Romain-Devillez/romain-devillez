@@ -16,7 +16,3 @@
 
 📍 Based in Lille, France 🇫🇷
 ```
-
-***
-
-Tu veux que je t'aide à créer ce README GitHub ou tu es bon avec ces recommandations ?
