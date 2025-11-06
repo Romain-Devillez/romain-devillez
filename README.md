@@ -15,4 +15,3 @@
 💡 **Mindset:** From idea to product, solo. Indie maker at heart.
 
 📍 Based in Lille, France 🇫🇷
-```
