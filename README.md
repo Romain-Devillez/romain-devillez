@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Romain
 
-<!--
-**Romain-Devillez/romain-devillez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Founder of BetterReads** - A mobile reading app with AI-powered recommendations
 
-Here are some ideas to get you started:
+💼 **Backend Engineer** with 5 years in startups (HRTech, FinTech, B2B SaaS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack:**
+- Backend: NestJS, PostgreSQL, Prisma, Microservices
+- Mobile: Flutter
+- Cloud: AWS (EC2, Lambda, RDS, S3)
+- DevOps: Docker, GitHub Actions, CI/CD
+
+📱 **Currently:** Building BetterReads from scratch - Backend, mobile app, infrastructure, everything.
+
+💡 **Mindset:** From idea to product, solo. Indie maker at heart.
+
+📍 Based in Lille, France 🇫🇷
+```
+
+***
+
+Tu veux que je t'aide à créer ce README GitHub ou tu es bon avec ces recommandations ?
